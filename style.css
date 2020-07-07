@@ -1,0 +1,24 @@
+   .text-primary{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        }
+        .menu {
+            overflow: hidden;
+  background-color: #007BFF;
+           
+    
+}
+
+.menu a {
+    float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu a:hover {
+  background-color: rgb(143, 188, 214);
+}
+
